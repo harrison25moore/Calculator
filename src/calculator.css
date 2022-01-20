@@ -1,0 +1,81 @@
+.container{
+    
+    display: flex;
+    padding-top: 50px;
+    width: 500px;
+    align-items: center;
+    margin: auto;
+    
+    
+
+}
+.bg{
+    
+    width: 450px;
+    height: 800px;
+    align-items: center;
+    margin: auto;
+    border-radius: 10%;
+    
+    background-color: rgb(175, 175, 175);
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+.header{
+    border: 4px solid black;
+    width: 420px;
+    background-color: rgb(219, 219, 219);
+    max-width: 400px;
+    height: 100px;
+    white-space: nowrap;
+    
+    font-size: 55px;
+    font-size: auto;
+    
+    
+}
+.top{
+    
+    width: 420px;
+    max-width: 400px;
+    height: 100px;
+    padding: 2px;
+    overflow: hidden;
+    font-size: 55px;
+}
+.top td{
+    
+    border: 2px solid black;
+    width: 420px;
+    height: 98px;
+    align-items: center;
+    overflow: hidden;
+    
+}
+table td{
+    
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    align-items: center;
+    
+    
+}
+
+
+td:hover{
+    cursor: pointer;
+    background-color: rgb(78, 78, 78);
+}
+.num{
+    font-size: 105px;
+}
+tr{
+    
+    font-size: 30px;
+}
+
+
+
+
